@@ -1,0 +1,19 @@
+export const course=[
+    {
+        name:'Bachelor of Arts',
+        text:'Bachelor of Arts is the course offered to the aesthetic, psychological, literary and critical sensibilities of the students. The course comprises of study of languages, literatures and humanities. While it takes them into the root of languages, literatures of various languages mould their humanitarian side. The course is designed in a way that develops their skill in creative writing. This is supported by activities such as music and dance workshops and competitions, drama workshop, creative writing, translation workshop, etc. It, thus, makes them Bachelor of Arts in true sense. Moreover, seminars, presentations, guest lectures are also conducted at certain intervals. The course further opens the door to Master of Arts and Bachelor of Education in respective subjects, Journalism & Mass Com, Diploma courses in clinical psychology, forensic psychology, school psychology, parents psychology, etc. The college offers BA in English, Hindi, Gujarati, Sanskrit, Psychology, Sociology, History and recognized centre for MA in Hindi and Psychology.'
+    },
+    {
+        name:'Bachelor of Commerce',
+        text:'Bachelor of Commerce is designed keeping the demand of the day in mind. We have both English and Gujarati medium for Commerce stream. It trains students to keep track with the world in terms of commerce and economics mainly. We also offer computer science as one of the subjects. It enables them in accountancy, banking, Tally, etc. to keep a check on the commercial transactions of an organization at local and global levels at large. As add-on courses, it also offers Banking classes, Tally classes, guidance lectures for competitive exams such as Banking, CA, GPSC, NET/SET, etc. The college also has a recognized center for Master of Commerce. The course is supported by Industrial Tour and Business Fair to develop students’ managerial and organizational skills.',
+    },
+    {
+        name:'Bachelor of Computer Application',
+        text:'Bachelor of Computer Application is an intellectual stream offered to students to develop logical and intellectual capabilities. The stream opens all the doors towards the information technology sector. The students pursuing the course will be enhanced with capabilities of doing programming for any language, studied as a part and partial of the course as well as other languages offer externally by the college workshops and seminars. The department provides other cultural development activities benefit to students as well as to its peer facilities of the department. The events held by the department help the students and faculties by leaps and bounds. The students pursuing the course can further opt for careers in industry or for further studies like Master of Computer Applications, Master of Science in Information Technology and Computer Applications as well as Master of Business Applications.',
+    },
+    {
+        name:'Bachelor of Social Work',
+        text:'Bachelor of Social Work is a professional course that addresses the needs of the society. It trains students to probe into the societal and individual needs and problems and problem shooting by mutual understanding or if need be by legal means. It aims at the overall progress of the society by welfare means/schemes. Students are specially trained to be the servants of society. The course comprises of theory and field work. Students are sent to a village, government and non-government organisations for the field work where they are trained for human service and also for professional career. It takes into consideration Child Welfare, Labour Welfare, Village Welfare, Youth Welfare, Women Welfare and Backward Class Welfare. The college also provides Master of Social Work. ',
+    },
+
+];
